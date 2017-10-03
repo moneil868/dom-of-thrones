@@ -113,4 +113,4 @@ function scene1() {
     arya.style.left = (parseInt(arya.style.left) - 10) + '%'
   }
 
-}
+};

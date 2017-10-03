@@ -120,6 +120,6 @@ function scene2() {
     frame(function() {
       head.style.left = '300%'
       head.style.top = '80%'
-      joff.style.transform = 'rotateZ(100deg)'
+      joff.style.transform = 'rotateZ(220deg)'
     })
-}
+};
